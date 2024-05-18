@@ -18,3 +18,5 @@
 - 校園自駕車(擁有Level2等級之校園自動駕駛車) 🥉全國高中職專題競賽 電機電子群 **第三名**
 - [阿北倒數](https://apps.apple.com/tw/app/%E9%98%BF%E5%8C%97%E5%80%92%E6%95%B8/id6473833139)(專為學生設計之iOS倒數App) 🏆iOS下載量**超過200次**
 - [不如吐司](https://apps.apple.com/tw/app/%E4%B8%8D%E5%A6%82%E5%90%90%E5%8F%B8/id6502551318)(讓使用esp32開發板製作專題更簡單之教育用免費iOS App) 👨‍🏫解決了老師們教學時只能用安卓設備控制esp32藍牙之問題
+---
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,arduino,py,qt,figma,vscode,github,flask,gcp,raspberrypi,cpp&theme=light)](https://skillicons.dev)
