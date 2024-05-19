@@ -21,4 +21,4 @@
 ---
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20day%20or%20day%20one&author=Me%20saw%20it%20on%20IG)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,arduino,py,qt,figma,vscode,github,flask,gcp,raspberrypi,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,arduino,py,opencv,qt,figma,vscode,github,flask,gcp,raspberrypi,cpp&theme=light)](https://skillicons.dev)
