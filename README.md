@@ -1,5 +1,5 @@
 ## 甲飽未，我是江祐鈞 👋
-
+![myGif](image/GitHubGif.gif)
 ## 擅長領域 💪
 - Swift軟體開發
 - Python應用
